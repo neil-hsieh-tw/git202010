@@ -1,3 +1,4 @@
 init
+Hello git first
 user2 edit
 user2 edit second
